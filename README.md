@@ -1,5 +1,6 @@
 The VBA of Wall Street
 
+![stock Market](Images/stockmarket.jpg)
 
 ### Module 1 generates total stock volumes for each individual stock on each individual worksheet. 
 
