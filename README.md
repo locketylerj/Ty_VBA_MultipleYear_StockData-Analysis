@@ -9,7 +9,7 @@ The VBA of Wall Street
 * It will display the ticker symbol to coincide with the total volume on each individual worksheet.
 
 
-### Module 2 Includes additional column calculations as well as conditional coloring schemes based on the calculated columns. 
+### Module 2 includes additional column calculations as well as conditional coloring schemes based on the calculated columns. 
 
 * This script will loop through all the stocks and take the following info.
 
@@ -24,11 +24,11 @@ The VBA of Wall Street
 * It is also conditionally formatted to highlight positive change in green and negative change in red.
 
 
-### Module 3
+### Module 3 includes the maximum and minimum values for percent changes and the maximum total volume and along with the stock's ticker symbol. 
 
 * This module includes everything from module 2. 
 
-* Module 3 will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
+* Module 3 will also  locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume" and puts them in a separate area on each worksheet starting in cell "O2".
 
 
 
