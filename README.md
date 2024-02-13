@@ -1,6 +1,6 @@
 The VBA of Wall Street
 
-![stock Market](Images/stockmarket.jpg) 
+![stock Market](Images/stockchart.jpg) 
 
 ### This project includes a smaller Excel workbook entitled "TestMacros" that allows a user to test the same modules from the "TyMultiple_year_stock_data" workbook on a smaller set of data. 
 
